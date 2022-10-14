@@ -17,6 +17,11 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+.bg {
+    background-color: maroon;
+    color: white;
+}
+
 .title {
     margin: 0 auto;
     width: fit-content;
